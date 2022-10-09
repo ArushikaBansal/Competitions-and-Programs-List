@@ -137,4 +137,18 @@ https://www.youtube.com/watch?v=zawgqMAVNe0
 
 </details>
 
+<details>
+<summary>Geeks Coding Challenge</summary>
+<br>
+About <br>
+Geeks Coding Challenge (GCC) is a 3-day coding contest organized by GeeksforGeeks. The contest is conducted online where you can solve various coding problems and can compete with other programmers online. You can solve the problems from any of the following programming languages – C++, Java or Python. Also, the total prize amount for Geeks Coding Challenge is worth more than 6 Lakh Rupees consisting of cash prizes, accessories, courses, etc. The contest is divided into 3 rounds which are described below:
+
+Round 1– All the registered candidates appear for a 90 minutes coding challenge. The top 250 candidates from this round qualify for the next round of the contest.
+Round 2– A 120 minutes coding challenge. The top 100 candidates from the second round qualify for the final round.
+Round 3- All the top 100 performers compete for a 120 minutes challenge.
+
+<br> Official Website- <br>
+https://www.geeksforgeeks.org/<br>
+
+</details>
 
